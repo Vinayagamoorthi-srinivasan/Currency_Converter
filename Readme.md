@@ -1,7 +1,7 @@
 
 # Currency Converter
+![image](https://github.com/Vinayagamoorthi-srinivasan/Currency_Converter/assets/134688106/a6562df2-fe7c-487d-a517-90c76d4e6e4c)
 
-![Currency Converter Screenshot](/screenshots/currency-converter.png)
 
 ## Description
 
